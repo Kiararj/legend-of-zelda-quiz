@@ -5,7 +5,7 @@
 https://kiararj.github.io/legend-of-zelda-quiz/
 ## Screenshot
 
-[Alt text](/screenshot.png "Screenshot of website")
+![Alt text](/assets/screenshot.png "Screenshot of website")
 
 ## Description
 
