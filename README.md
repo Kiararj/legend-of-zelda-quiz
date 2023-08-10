@@ -5,11 +5,11 @@
 https://kiararj.github.io/legend-of-zelda-quiz/
 ## Screenshot
 
-<!-- ![Alt text](/Assets/screenshot.png "Screenshot of website") -->
+[Alt text](/screenshot.png "Screenshot of website")
 
 ## Description
 
-A Legend of Zelda themed quiz application.
+A Legend of Zelda themed quiz application. Answer 10 questions and save your high score!
 
 ## Credits
 
