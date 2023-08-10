@@ -2,6 +2,7 @@
 
 ## Deploy Link
 
+https://kiararj.github.io/legend-of-zelda-quiz/
 ## Screenshot
 
 <!-- ![Alt text](/Assets/screenshot.png "Screenshot of website") -->
