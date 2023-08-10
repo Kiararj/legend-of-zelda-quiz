@@ -21,4 +21,12 @@
 }
 .choice-text{
     padding: 1.5rem;
+    width: 100%;
+}
+.correct{
+    background-color: #76a17c;
+}
+
+.incorrect{
+    background-color: #cd6d30;
 }
